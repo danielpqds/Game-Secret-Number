@@ -18,8 +18,13 @@
 ## Como Utilizar
 bash
 Copy code
-git clone (https://projeto-alura-midi-peach.vercel.app/)
+Acesse o jogo clickando nesse link (https://projeto-alura-midi-peach.vercel.app/)
 Em seguida, navegue até o diretório do projeto e abra o arquivo index.html em seu navegador preferido.
+
+
+https://github.com/danielpqds/Game-Secret-Number/assets/155841513/f5976e23-78ae-42de-969c-c2fcf8e0434b
+
+
 
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.
