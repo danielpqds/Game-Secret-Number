@@ -1,4 +1,4 @@
-<h1 align="center">SECRET NUMBER 2.0!</h1>
+<h1 align="center">SECRET NUMBER!</h1>
 
 ## Descrição do Projeto
 <p>Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Secret Number. O Secret Number é um mini jogo simples construído com HTML, CSS e JavaScript projetada para demonstrar minhas habilidades de lógica de programação programação, front-end e design web.</p>
@@ -24,7 +24,7 @@ Acesse o jogo clickando nesse link (https://jogo-log-program.vercel.app/)
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.
 
-Autor
+## Autor
 Este projeto foi desenvolvido por Álvaro Daniel em parceria com @Alura.
 
 
