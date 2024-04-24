@@ -21,6 +21,14 @@ Acesse o jogo clickando nesse link (https://jogo-log-program.vercel.app/)
 
 
 
+
+
+
+https://github.com/danielpqds/Game-Secret-Number/assets/155841513/ff1b61fb-b8f5-41aa-8f2b-b8b0345e6c88
+
+
+
+
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.
 
