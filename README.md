@@ -28,7 +28,7 @@ https://github.com/danielpqds/Game-Secret-Number/assets/155841513/1291bbbe-adb6-
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de usabilidade ou desejar adicionar novos recursos, sinta-se à vontade para enviar uma solicitação de pull request.
 
-Autor
+## Autor
 Este projeto foi desenvolvido por Álvaro Daniel em parceria com @Alura.
 
 Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado por conferir o projeto Secret Number! 🚀
