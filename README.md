@@ -24,7 +24,11 @@ Acesse o jogo clickando nesse link (https://jogo-log-program.vercel.app/)
 
 
 
-https://github.com/danielpqds/Game-Secret-Number/assets/155841513/ff1b61fb-b8f5-41aa-8f2b-b8b0345e6c88
+
+
+
+https://github.com/danielpqds/Game-Secret-Number/assets/155841513/dea2f198-1606-4b51-a363-319dbbebfd62
+
 
 
 
