@@ -17,7 +17,7 @@
 
 ## Como Utilizar
 
-Acesse o jogo clickando nesse link (https://projeto-alura-midi-peach.vercel.app/)
+Acesse o jogo clickando nesse link (https://secret-number-2-0-steel.vercel.app/)
 
 https://github.com/danielpqds/Game-Secret-Number/assets/155841513/f5976e23-78ae-42de-969c-c2fcf8e0434b
 
